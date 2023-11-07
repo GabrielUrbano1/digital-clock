@@ -81,7 +81,7 @@ body {
 .clock-box{
     width: 80%;
     height: 45%;
-    background-color: #E27439;
+    background-color: #4D4748;
     z-index: 1;
     position: absolute;
     top: 30%;
@@ -90,6 +90,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 20px;
 
 }
 
